@@ -1,0 +1,14 @@
+kitap
+kalem
+fare
+bartin
+universitesi
+bilgisayar
+muhendisligi
+masa
+sandalye
+sira
+masa
+sira
+kitap
+
