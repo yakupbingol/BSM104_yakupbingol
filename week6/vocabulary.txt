@@ -1,0 +1,17 @@
+apple
+orange
+man
+book
+pencil
+life
+love
+computer
+banana
+tomato
+orange
+pencil
+love
+computer
+life
+
+
